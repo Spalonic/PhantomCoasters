@@ -78,7 +78,7 @@ left: 310px;
 #Center1 p {
 font-family: sans-serif;
 position: relative;
-left: 370px;
+left: 440px;
 }
 
 #Center2 h3 {
@@ -92,7 +92,7 @@ left: 310px;
 }
 
 #QACenter1 p {
-	left: 550px;
+	left: 510px;
 }
 
 #QACenter2 h3 {
@@ -108,5 +108,5 @@ left: 310px;
 }
 
 #QACenter3 p {
-	left: 470px;
+	left: 450px;
 }
