@@ -143,3 +143,40 @@ left: 310px;
   border-color: #3E71A7;
   font-size: 23px;
 }
+
+#normallink a {
+ font-family: sans-serif;
+  text-decoration: none;
+  color: #0E4D92;
+  font-size: 25px;
+}
+
+#CarowindsBlog p {
+
+  left: 450px;
+  top: -188px;
+
+}
+
+#CarowindsBlog a {
+  position: absolute;
+  top: 135px;
+  left: 725px;
+  color: #0E4D92;
+  font-size: 25px;
+}
+
+#AirtimeTop p {
+
+  left: 900px;
+  top: -375px;
+
+}
+
+#AirtimeTop a {
+  position: absolute;
+  top: 135px;
+  left: 1130px;
+  color: #0E4D92;
+  font-size: 25px;
+}
